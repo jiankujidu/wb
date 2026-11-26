@@ -1,0 +1,19 @@
+{
+  "name": "实验室工作台 · WB 组图与灰度",
+  "short_name": "WB 工作台",
+  "description": "在浏览器本地完成 Western blot 组图、样本映射、ROI 辅助、定量与曝光 QC。",
+  "lang": "zh-CN",
+  "start_url": "./#studio",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f8f6",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "./icons/figurelab-wb.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
